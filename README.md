@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadWaqasse2
 - 👀 I’m interested in ... programing 
-- 🌱 I’m currently learning ... Software development 
+- 🌱 I’m currently learning ... Software development and website development
 - 💞️ I’m looking to collaborate on ... software development 
 - 📫 How to reach me ... Email: ahmadwaqasse2@gmail.com
 
